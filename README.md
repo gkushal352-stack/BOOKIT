@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# BOOKIT
 
 ## Project info
 
@@ -64,7 +64,7 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/01690b8d-8f79-4132-b3f0-43103ab10a93) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to your Lovable project?
 
 Yes, you can!
 
